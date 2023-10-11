@@ -41,12 +41,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Anushka Kaole
+avatar: $assets.files.images.dp1.jpg
+city: Nagpur
+github-url: https://www.github.com/anushkakaole29
+linkedin-url: https://www.linkedin.com/anushka-kaole29
+instagram-url: https://www.instagram.com/anushka_kaole
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
@@ -106,12 +106,12 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
+-- profile.wrapper: Anushka Kaole
+avatar: $assets.files.images.dp1.jpg
+city: Nagpur
+github-url: https://www.github.com/anushkakaole29
+linkedin-url: https://www.linkedin.com/anushka-kaole29
+instagram-url: https://www.instagram.com/anushka_kaole
 twitter-url: https://twitter.com/
 
 -- end: ftd.container
