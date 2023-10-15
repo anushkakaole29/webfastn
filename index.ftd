@@ -9,7 +9,7 @@ width: fill-container
 height: fill-container
 
 -- ftd.container:
-background.solid: #19A2AE
+background.solid: #FEC8D8
 width: fill-container
 height: fill-container
 overflow: hidden
